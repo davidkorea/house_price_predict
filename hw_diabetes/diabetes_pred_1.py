@@ -27,3 +27,11 @@ print('Sample {} - true:{}, pred:{}'.format(idx,true,pred))
 # Results:
 # R2 score:  0.4179775463198647
 # Sample 22 - true:104, pred:[31.5716432]
+ 
+# CSV data description
+# * AGE：年龄 
+# * SEX: 性别 
+# * BMI: 体质指数（Body Mass Index） 
+# * BP: 平均血压（Average Blood Pressure） 
+# * S1~S6: 一年后的6项疾病级数指标 
+# * Y: 一年后患疾病的定量指标，为需要预测的标签
