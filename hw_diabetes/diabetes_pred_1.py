@@ -27,7 +27,7 @@ print('Sample {} - true:{}, pred:{}'.format(idx,true,pred))
 # Results:
 # R2 score:  0.4179775463198647
 # Sample 22 - true:104, pred:[31.5716432]
- 
+
 # CSV data description
 # * AGE：年龄 
 # * SEX: 性别 
