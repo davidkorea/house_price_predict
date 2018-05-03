@@ -14,9 +14,12 @@
 
 ![](https://github.com/davidkorea/house_price_predict/blob/master/images/linearreg.jpg)
 
+![](https://github.com/davidkorea/house_price_predict/blob/master/images/wb.jpg)
+
 
 * **Feature weights are decided by ```LinearRegression()```, it is not hyperparameter**
 * Residual sum of quare,RSS or R2(R^2,R square) 残差平方和/损失函数, Loss/coat Function
+* y = wx +b, ```w = coef_```, ```b = intercept_```, ```LinearRegression() = coef_ * x + intercept_```
  
 # 2. Code 
 
