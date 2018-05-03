@@ -78,3 +78,9 @@ main()
 # Feature:sqft_above, R2:0.35340999022703223
 # Feature:sqft_basement, R2:0.1180671186537966
 ```
+![](https://github.com/davidkorea/house_price_predict/blob/master/plot/train_bathrooms.png)
+![](https://github.com/davidkorea/house_price_predict/blob/master/plot/train_bedrooms.png)
+![](https://github.com/davidkorea/house_price_predict/blob/master/plot/train_sqft_above.png)
+![](https://github.com/davidkorea/house_price_predict/blob/master/plot/train_sqft_basement.png)
+![](https://github.com/davidkorea/house_price_predict/blob/master/plot/train_sqft_living.pngv)
+![](https://github.com/davidkorea/house_price_predict/blob/master/plot/train_sqft_lot.png)
